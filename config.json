@@ -1,0 +1,8 @@
+{
+    "project_name": "GHAUDI Updates, Errors & Distribution",
+    "api_port": 5000,
+    "enable_flask_api": true,
+    "ai_endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=",
+    "ai_system": "Custom",
+    "registered_at": "2025-02-04T11:03:53.681157"
+}
